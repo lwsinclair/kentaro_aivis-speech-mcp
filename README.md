@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-kentaro-aivis-speech-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-kentaro-aivis-speech-mcp)
+
 # AivisSpeech MCP サーバー
 
 AivisSpeech用のModel Context Protocol (MCP) サーバーの実装です。このサーバーは、AivisSpeech Engineと連携して、音声合成のためのインターフェースを提供します。MCPプロトコルを通じて、AIアシスタントなどのアプリケーションからAivisSpeechの音声合成機能を簡単に利用できるようになります。
